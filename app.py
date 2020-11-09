@@ -63,4 +63,4 @@ api.add_resource(ParticipantsTests, '/participantstests', endpoint="Participants
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host="192.168.2.58")
+    app.run(debug=True)
